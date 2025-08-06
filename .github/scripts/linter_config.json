@@ -1,15 +1,15 @@
 {
     "ellipsis": {
         "enabled": true,
-        "exclusions": []
+        "exclusions": [false]
     },
     "quotes": {
         "enabled": true,
-        "exclusions": []
+        "exclusions": [$/.]
     },
     "placeables": {
         "enabled": true,
-        "exclusions": []
+        "exclusions": [countiner.json]
     },
     "brands": {
         "enabled": true,
